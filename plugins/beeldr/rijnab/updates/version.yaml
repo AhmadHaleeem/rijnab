@@ -1,0 +1,164 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table beeldr_rijnab_'
+    - builder_table_create_beeldr_rijnab_.php
+1.0.3:
+    - 'Updated table beeldr_rijnab_'
+    - builder_table_update_beeldr_rijnab_homepage.php
+1.0.4:
+    - 'Updated table beeldr_rijnab_homepage'
+    - builder_table_update_beeldr_rijnab_homepage_2.php
+1.0.5:
+    - 'Updated table beeldr_rijnab_homepage'
+    - builder_table_update_beeldr_rijnab_homepage_3.php
+1.0.6:
+    - 'Drop table beeldr_rijnab_homepage'
+    - builder_table_delete_beeldr_rijnab_homepage.php
+1.0.7:
+    - 'Created table beeldr_rijnab_homepage'
+    - builder_table_create_beeldr_rijnab_homepage.php
+1.0.8:
+    - 'Created table beeldr_rijnab_overons'
+    - builder_table_create_beeldr_rijnab_overons.php
+1.0.9:
+    - 'Updated table beeldr_rijnab_overons'
+    - builder_table_update_beeldr_rijnab_overons.php
+1.0.10:
+    - 'Updated table beeldr_rijnab_overons'
+    - builder_table_update_beeldr_rijnab_over_ons.php
+1.0.11:
+    - 'Created table beeldr_rijnab_onze_diensten'
+    - builder_table_create_beeldr_rijnab_onze_diensten.php
+1.0.12:
+    - 'Updated table beeldr_rijnab_onze_diensten'
+    - builder_table_update_beeldr_rijnab_onze_diensten.php
+1.0.13:
+    - 'Created table beeldr_rijnab_contact'
+    - builder_table_create_beeldr_rijnab_contact.php
+1.0.14:
+    - 'Updated table beeldr_rijnab_contact'
+    - builder_table_update_beeldr_rijnab_contact.php
+1.0.15:
+    - 'Created table beeldr_rijnab_handig'
+    - builder_table_create_beeldr_rijnab_handig.php
+1.0.16:
+    - 'Created table beeldr_rijnab_nieuw'
+    - builder_table_create_beeldr_rijnab_nieuw.php
+1.0.17:
+    - 'Created table beeldr_rijnab_vve_vrijwilliger'
+    - builder_table_create_beeldr_rijnab_vve_vrijwilliger.php
+1.0.18:
+    - 'Created table beeldr_rijnab_subsidie_zonnepalen'
+    - builder_table_create_beeldr_rijnab_subsidie_zonnepalen.php
+1.0.19:
+    - 'Created table beeldr_rijnab_mijnvve'
+    - builder_table_create_beeldr_rijnab_mijnvve.php
+1.0.20:
+    - 'Created table beeldr_rijnab_splitsingers1973'
+    - builder_table_create_beeldr_rijnab_splitsingers1973.php
+1.0.21:
+    - 'Created table beeldr_rijnab_splitsingers1982'
+    - builder_table_create_beeldr_rijnab_splitsingers1982.php
+1.0.22:
+    - 'Created table beeldr_rijnab_splitsingers1992'
+    - builder_table_create_beeldr_rijnab_splitsingers1992.php
+1.0.23:
+    - 'Created table beeldr_rijnab_splitsingers2006'
+    - builder_table_create_beeldr_rijnab_splitsingers2006.php
+1.0.24:
+    - 'Updated table beeldr_rijnab_contact'
+    - builder_table_update_beeldr_rijnab_contact_2.php
+1.0.25:
+    - 'Created table beeldr_rijnab_files'
+    - builder_table_create_beeldr_rijnab_files.php
+1.0.26:
+    - 'Updated table beeldr_rijnab_files'
+    - builder_table_update_beeldr_rijnab_files.php
+1.0.27:
+    - 'Created table beeldr_rijnab_user_files'
+    - builder_table_create_beeldr_rijnab_user_files.php
+1.0.28:
+    - 'Updated table beeldr_rijnab_user_files'
+    - builder_table_update_beeldr_rijnab_user_file.php
+1.0.29:
+    - 'Updated table beeldr_rijnab_user_file'
+    - builder_table_update_beeldr_rijnab_user_files.php
+1.0.30:
+    - 'Drop table beeldr_rijnab_user_files'
+    - builder_table_delete_beeldr_rijnab_user_files.php
+1.0.31:
+    - 'Drop table beeldr_rijnab_files'
+    - builder_table_delete_beeldr_rijnab_files.php
+1.0.32:
+    - 'Created table beeldr_rijnab_userfiles'
+    - builder_table_create_beeldr_rijnab_userfiles.php
+1.0.33:
+    - 'Updated table beeldr_rijnab_userfiles'
+    - builder_table_update_beeldr_rijnab_userfiles.php
+1.0.34:
+    - 'Created table beeldr_rijnab_user_file'
+    - builder_table_create_beeldr_rijnab_user_file.php
+1.0.35:
+    - 'Updated table beeldr_rijnab_user_file'
+    - builder_table_update_beeldr_rijnab_user_file_2.php
+1.0.36:
+    - 'Updated table beeldr_rijnab_userfiles'
+    - builder_table_update_beeldr_rijnab_userfiles_2.php
+1.0.37:
+    - 'Updated table beeldr_rijnab_user_file'
+    - builder_table_update_beeldr_rijnab_user_files_2.php
+1.0.38:
+    - 'Updated table beeldr_rijnab_user_files'
+    - builder_table_update_beeldr_rijnab_user_file_3.php
+1.0.39:
+    - 'Updated table beeldr_rijnab_user_file'
+    - builder_table_update_beeldr_rijnab_user_files_3.php
+1.0.40:
+    - 'Updated table beeldr_rijnab_user_files'
+    - builder_table_update_beeldr_rijnab_user_file_4.php
+1.0.41:
+    - 'Updated table beeldr_rijnab_userfiles'
+    - builder_table_update_beeldr_rijnab_files_2.php
+1.0.42:
+    - 'Updated table beeldr_rijnab_files'
+    - builder_table_update_beeldr_rijnab_userfiles_3.php
+1.0.43:
+    - 'Drop table beeldr_rijnab_userfiles'
+    - builder_table_delete_beeldr_rijnab_userfiles.php
+1.0.44:
+    - 'Drop table beeldr_rijnab_user_file'
+    - builder_table_delete_beeldr_rijnab_user_file.php
+1.0.45:
+    - 'Created table beeldr_rijnab_files'
+    - builder_table_create_beeldr_rijnab_files_2.php
+1.0.46:
+    - 'Created table beeldr_rijnab_user_file'
+    - builder_table_create_beeldr_rijnab_user_file_2.php
+1.0.47:
+    - 'Updated table beeldr_rijnab_user_file'
+    - builder_table_update_beeldr_rijnab_user_file_5.php
+1.0.48:
+    - 'Updated table beeldr_rijnab_user_file'
+    - builder_table_update_beeldr_rijnab_user_file_6.php
+1.0.49:
+    - 'Updated table beeldr_rijnab_files'
+    - builder_table_update_beeldr_rijnab_files_3.php
+1.0.50:
+    - 'Updated table beeldr_rijnab_files'
+    - builder_table_update_beeldr_rijnab_files_4.php
+1.0.51:
+    - 'Updated table beeldr_rijnab_user_file'
+    - builder_table_update_beeldr_rijnab_user_file_7.php
+1.0.52:
+    - 'Drop table beeldr_rijnab_user_file'
+    - builder_table_delete_beeldr_rijnab_user_file_2.php
+1.0.53:
+    - 'Drop table beeldr_rijnab_files'
+    - builder_table_delete_beeldr_rijnab_files_2.php
+1.0.54:
+    - 'Created table beeldr_rijnab_demo'
+    - builder_table_create_beeldr_rijnab_demo.php
+1.0.55:
+    - 'Created table beeldr_rijnab_vveigenaren'
+    - builder_table_create_beeldr_rijnab_vveigenaren.php

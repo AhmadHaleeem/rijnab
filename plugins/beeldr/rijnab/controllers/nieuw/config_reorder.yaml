@@ -1,0 +1,4 @@
+title: Nieuw
+modelClass: Beeldr\Rijnab\Models\Nieuw
+toolbar:
+    buttons: reorder_toolbar

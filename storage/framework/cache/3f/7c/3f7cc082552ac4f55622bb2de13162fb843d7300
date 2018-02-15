@@ -1,0 +1,83 @@
+1518703643a:1:{s:10:"header.htm";a:5:{s:8:"fileName";s:10:"header.htm";s:7:"content";s:2606:"<nav class="navbar navbar-inverse" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header ">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Rijnab</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="{% if this.page.id == 'homepage' %} active {% endif %}"><a href="/">Home</a></li>
+                <li class="{% if this.page.id == 'over_ons' %} active {% endif %}"><a href='over_ons'> Over ons</a></li>
+                <li class="{% if this.page.id == 'onze_diensten' %} active {% endif %}"> <a href="onze_diensten">Onze diensten</a></li>
+                <li class="{% if this.page.id == 'contact' %} active {% endif %}"><a href="contact">Contact</a></li>
+                <li class="{% if this.page.id == 'handig' %} active {% endif %}"><a href="handig">Handig</a></li>
+
+                <li class="dropdown">
+                    <a href="nieuw" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nieuws <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="{% if this.page.id == 'nieuw' %} active {% endif %}"><a href="nieuw">Nieuws</a></li>
+                        <li class="{% if this.page.id == 'vve_vrijwilliger' %} active {% endif %}"><a href="/VvE_Vrijwilliger">VvE_Vrijwilliger</a></li>
+                        <li class="{% if this.page.id == 'subsidie_zonnepalen' %} active {% endif %}"><a href="/subsidie_zonnepalen">subsidie_zonnepalen</a></li>
+                    </ul>
+                </li>
+                <li class="{% if this.page.id == 'mijnvve' %} active {% endif %}"><a href="mijnVve">mijn VvE</a></li>
+
+                </a></li>
+                {% if user %}
+                <li style="cursor: pointer"><a data-request="onLogout" data-request-data="redirect: '/'">Sign out</a></li>
+                {% endif %}
+            </ul>
+
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>";s:5:"mtime";i:1513343802;s:6:"markup";s:2606:"<nav class="navbar navbar-inverse" role="navigation">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header ">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Rijnab</a>
+        </div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="{% if this.page.id == 'homepage' %} active {% endif %}"><a href="/">Home</a></li>
+                <li class="{% if this.page.id == 'over_ons' %} active {% endif %}"><a href='over_ons'> Over ons</a></li>
+                <li class="{% if this.page.id == 'onze_diensten' %} active {% endif %}"> <a href="onze_diensten">Onze diensten</a></li>
+                <li class="{% if this.page.id == 'contact' %} active {% endif %}"><a href="contact">Contact</a></li>
+                <li class="{% if this.page.id == 'handig' %} active {% endif %}"><a href="handig">Handig</a></li>
+
+                <li class="dropdown">
+                    <a href="nieuw" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Nieuws <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li class="{% if this.page.id == 'nieuw' %} active {% endif %}"><a href="nieuw">Nieuws</a></li>
+                        <li class="{% if this.page.id == 'vve_vrijwilliger' %} active {% endif %}"><a href="/VvE_Vrijwilliger">VvE_Vrijwilliger</a></li>
+                        <li class="{% if this.page.id == 'subsidie_zonnepalen' %} active {% endif %}"><a href="/subsidie_zonnepalen">subsidie_zonnepalen</a></li>
+                    </ul>
+                </li>
+                <li class="{% if this.page.id == 'mijnvve' %} active {% endif %}"><a href="mijnVve">mijn VvE</a></li>
+
+                </a></li>
+                {% if user %}
+                <li style="cursor: pointer"><a data-request="onLogout" data-request-data="redirect: '/'">Sign out</a></li>
+                {% endif %}
+            </ul>
+
+        </div>
+        <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+</nav>";s:4:"code";N;}}

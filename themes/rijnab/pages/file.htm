@@ -1,0 +1,35 @@
+title = "file"
+url = "/file"
+layout = "default"
+is_hidden = 0
+
+[builderList]
+modelClass = "RainLab\User\Models\User"
+scope = "-"
+displayColumn = "name"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
+
+[session]
+security = "user"
+allowedUserGroups[] = "superadmin"
+allowedUserGroups[] = "admin"
+allowedUserGroups[] = "registered"
+allowedUserGroups[] = "guest"
+redirect = "login"
+==
+{% component 'session' %}
+{% set records = builderList.records %}
+{% set displayColumn = builderList.displayColumn %}
+{% set noRecordsMessage = builderList.noRecordsMessage %}
+{% set detailsPage = builderList.detailsPage %}
+{% set detailsKeyColumn = builderList.detailsKeyColumn %}
+{% set detailsUrlParameter = builderList.detailsUrlParameter %}
+
+<div class="">
+    {% if user %}
+        <div class="">{{ user.filename|raw }}</div>
+    {% endif %}
+</div>

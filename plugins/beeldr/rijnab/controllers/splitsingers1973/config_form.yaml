@@ -1,0 +1,10 @@
+name: Splitsingers1973
+form: $/beeldr/rijnab/models/splitsingers1973/fields.yaml
+modelClass: Beeldr\Rijnab\Models\Splitsingers1973
+defaultRedirect: beeldr/rijnab/splitsingers1973
+create:
+    redirect: 'beeldr/rijnab/splitsingers1973/update/:id'
+    redirectClose: beeldr/rijnab/splitsingers1973
+update:
+    redirect: beeldr/rijnab/splitsingers1973
+    redirectClose: beeldr/rijnab/splitsingers1973

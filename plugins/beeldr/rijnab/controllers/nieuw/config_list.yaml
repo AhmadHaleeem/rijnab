@@ -1,0 +1,12 @@
+list: $/beeldr/rijnab/models/nieuw/columns.yaml
+modelClass: Beeldr\Rijnab\Models\Nieuw
+title: Nieuw
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'beeldr/rijnab/nieuw/update/:id'

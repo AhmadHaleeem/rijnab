@@ -1,0 +1,10 @@
+name: MijnVve
+form: $/beeldr/rijnab/models/mijnvve/fields.yaml
+modelClass: Beeldr\Rijnab\Models\MijnVve
+defaultRedirect: beeldr/rijnab/mijnvve
+create:
+    redirect: 'beeldr/rijnab/mijnvve/update/:id'
+    redirectClose: beeldr/rijnab/mijnvve
+update:
+    redirect: beeldr/rijnab/mijnvve
+    redirectClose: beeldr/rijnab/mijnvve

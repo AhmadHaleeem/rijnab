@@ -1,0 +1,10 @@
+name: HeaderPage
+form: $/beeldr/rijnab/models/homepage/fields.yaml
+modelClass: Beeldr\Rijnab\Models\HomePage
+defaultRedirect: beeldr/rijnab/headerpage
+create:
+    redirect: 'beeldr/rijnab/headerpage/update/:id'
+    redirectClose: beeldr/rijnab/headerpage
+update:
+    redirect: beeldr/rijnab/headerpage
+    redirectClose: beeldr/rijnab/headerpage

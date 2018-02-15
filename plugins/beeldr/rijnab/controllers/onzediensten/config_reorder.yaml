@@ -1,0 +1,4 @@
+title: OnzeDiensten
+modelClass: Beeldr\Rijnab\Models\OnzeDiensten
+toolbar:
+    buttons: reorder_toolbar

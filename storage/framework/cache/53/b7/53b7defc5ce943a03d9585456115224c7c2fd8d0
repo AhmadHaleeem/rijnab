@@ -1,0 +1,51 @@
+1518703643a:1:{s:23:"subsidie_zonnepalen.htm";a:10:{s:8:"fileName";s:23:"subsidie_zonnepalen.htm";s:7:"content";s:945:"title = "subsidie_zonnepalen"
+url = "/subsidie_zonnepalen"
+layout = "default"
+is_hidden = 0
+
+[builderList]
+modelClass = "Beeldr\Rijnab\Models\SubsidieZonnepalen"
+scope = "-"
+displayColumn = "body"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
+==
+{% set records = builderList.records %}
+{% set displayColumn = builderList.displayColumn %}
+{% set noRecordsMessage = builderList.noRecordsMessage %}
+{% set detailsPage = builderList.detailsPage %}
+{% set detailsKeyColumn = builderList.detailsKeyColumn %}
+{% set detailsUrlParameter = builderList.detailsUrlParameter %}
+
+<div class="record-list">
+    {% for record in records %}
+    <img style="width: 100%" src="{{ record.poster.path }}">
+
+    <div style="margin-top: 30px" class="row">
+        <div class="col-md-9">
+            {{ record.body|raw }}
+        </div>
+    </div>
+
+    {% endfor %}
+</div>";s:5:"mtime";i:1513086154;s:6:"markup";s:621:"{% set records = builderList.records %}
+{% set displayColumn = builderList.displayColumn %}
+{% set noRecordsMessage = builderList.noRecordsMessage %}
+{% set detailsPage = builderList.detailsPage %}
+{% set detailsKeyColumn = builderList.detailsKeyColumn %}
+{% set detailsUrlParameter = builderList.detailsUrlParameter %}
+
+<div class="record-list">
+    {% for record in records %}
+    <img style="width: 100%" src="{{ record.poster.path }}">
+
+    <div style="margin-top: 30px" class="row">
+        <div class="col-md-9">
+            {{ record.body|raw }}
+        </div>
+    </div>
+
+    {% endfor %}
+</div>";s:4:"code";N;s:5:"title";s:19:"subsidie_zonnepalen";s:3:"url";s:20:"/subsidie_zonnepalen";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:11:"builderList";a:7:{s:10:"modelClass";s:39:"Beeldr\Rijnab\Models\SubsidieZonnepalen";s:5:"scope";s:1:"-";s:13:"displayColumn";s:4:"body";s:16:"noRecordsMessage";s:16:"No records found";s:11:"detailsPage";s:1:"-";s:19:"detailsUrlParameter";s:2:"id";s:10:"pageNumber";s:11:"{{ :page }}";}}}

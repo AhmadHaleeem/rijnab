@@ -1,0 +1,17 @@
+fields:
+    poster:
+        label: Poster
+        oc.commentPosition: ''
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: full
+        type: fileupload
+    body:
+        label: Body
+        size: ''
+        oc.commentPosition: ''
+        span: full
+        type: richeditor

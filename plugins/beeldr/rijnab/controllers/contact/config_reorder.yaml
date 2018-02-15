@@ -1,0 +1,4 @@
+title: Contact
+modelClass: Beeldr\Rijnab\Models\Contact
+toolbar:
+    buttons: reorder_toolbar

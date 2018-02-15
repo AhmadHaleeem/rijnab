@@ -1,0 +1,10 @@
+name: Vveigenaren
+form: $/beeldr/rijnab/models/vveigenaren/fields.yaml
+modelClass: Beeldr\Rijnab\Models\Vveigenaren
+defaultRedirect: beeldr/rijnab/vveigenaren
+create:
+    redirect: 'beeldr/rijnab/vveigenaren/update/:id'
+    redirectClose: beeldr/rijnab/vveigenaren
+update:
+    redirect: beeldr/rijnab/vveigenaren
+    redirectClose: beeldr/rijnab/vveigenaren

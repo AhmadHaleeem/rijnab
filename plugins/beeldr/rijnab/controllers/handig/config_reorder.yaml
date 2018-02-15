@@ -1,0 +1,4 @@
+title: Handig
+modelClass: Beeldr\Rijnab\Models\Handig
+toolbar:
+    buttons: reorder_toolbar

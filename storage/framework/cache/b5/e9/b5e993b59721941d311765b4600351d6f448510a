@@ -1,0 +1,59 @@
+1518703643a:1:{s:12:"homepage.htm";a:10:{s:8:"fileName";s:12:"homepage.htm";s:7:"content";s:1050:"title = "/homepage"
+url = "/"
+layout = "default"
+is_hidden = 0
+
+[builderList builderList2]
+modelClass = "Beeldr\Rijnab\Models\HomePage"
+scope = "-"
+displayColumn = "body"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
+==
+{% set records = builderList2.records %}
+{% set displayColumn = builderList2.displayColumn %}
+{% set noRecordsMessage = builderList2.noRecordsMessage %}
+{% set detailsPage = builderList2.detailsPage %}
+{% set detailsKeyColumn = builderList2.detailsKeyColumn %}
+{% set detailsUrlParameter = builderList2.detailsUrlParameter %}
+
+<div class="record-list">
+    {% for record in records %}
+    <img style="width: 100%" src="{{ record.poster.path }}">
+
+    <div style="margin-top: 30px" class="row">
+        <div class="col-md-9">
+            {{ record.body|raw }}
+        </div>
+        <div style="margin-top: 40px" class="col-md-3 text-center">
+            <img  src="{{ record.poster1.path }}">
+        </div>
+    </div>
+
+
+    {% endfor %}
+</div>";s:5:"mtime";i:1513091268;s:6:"markup";s:766:"{% set records = builderList2.records %}
+{% set displayColumn = builderList2.displayColumn %}
+{% set noRecordsMessage = builderList2.noRecordsMessage %}
+{% set detailsPage = builderList2.detailsPage %}
+{% set detailsKeyColumn = builderList2.detailsKeyColumn %}
+{% set detailsUrlParameter = builderList2.detailsUrlParameter %}
+
+<div class="record-list">
+    {% for record in records %}
+    <img style="width: 100%" src="{{ record.poster.path }}">
+
+    <div style="margin-top: 30px" class="row">
+        <div class="col-md-9">
+            {{ record.body|raw }}
+        </div>
+        <div style="margin-top: 40px" class="col-md-3 text-center">
+            <img  src="{{ record.poster1.path }}">
+        </div>
+    </div>
+
+
+    {% endfor %}
+</div>";s:4:"code";N;s:5:"title";s:9:"/homepage";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:24:"builderList builderList2";a:7:{s:10:"modelClass";s:29:"Beeldr\Rijnab\Models\HomePage";s:5:"scope";s:1:"-";s:13:"displayColumn";s:4:"body";s:16:"noRecordsMessage";s:16:"No records found";s:11:"detailsPage";s:1:"-";s:19:"detailsUrlParameter";s:2:"id";s:10:"pageNumber";s:11:"{{ :page }}";}}}

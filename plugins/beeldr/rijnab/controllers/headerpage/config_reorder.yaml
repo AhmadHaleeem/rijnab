@@ -1,0 +1,4 @@
+title: HeaderPage
+modelClass: Beeldr\Rijnab\Models\HomePage
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,4 @@
+title: Vveigenaren
+modelClass: Beeldr\Rijnab\Models\Vveigenaren
+toolbar:
+    buttons: reorder_toolbar

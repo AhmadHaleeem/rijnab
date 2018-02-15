@@ -1,0 +1,37 @@
+title = "demo"
+url = "/demo"
+layout = "default"
+is_hidden = 0
+
+[builderList]
+modelClass = "Beeldr\Rijnab\Models\Demo"
+scope = "-"
+displayColumn = "body"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
+==
+{% set records = builderList.records %}
+{% set displayColumn = builderList.displayColumn %}
+{% set noRecordsMessage = builderList.noRecordsMessage %}
+{% set detailsPage = builderList.detailsPage %}
+{% set detailsKeyColumn = builderList.detailsKeyColumn %}
+{% set detailsUrlParameter = builderList.detailsUrlParameter %}
+
+<div class="record-list">
+    {% for record in records %}
+    <img style="width: 100%" src="{{ record.poster.path }}">
+
+    <div style="margin-top: 30px" class="row">
+        <div class="col-md-8 col-md-offset-2 panel-default">
+            <div class="panel-heading">
+                Demo
+            </div>
+            <div  class="panel-body"></div>
+            {{ record.body|raw }}
+        </div>
+    </div>
+
+    {% endfor %}
+</div>

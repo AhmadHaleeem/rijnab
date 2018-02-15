@@ -1,0 +1,32 @@
+title = "login"
+url = "/login"
+layout = "default"
+is_hidden = 0
+
+[account]
+redirect = "file"
+paramCode = "code"
+forceSecure = 0
+
+[session]
+security = "all"
+redirect = "over_ons"
+==
+<div class="row col-md-6 col-md-offset-3">
+    <div class=" panel panel-primary">
+        <div class="panel-heading" style="width: 100%">VVe Inloggin</div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-12">
+                    {% if not user %}
+                        <h3>Aanmelden</h3>
+                        {% partial account ~ '::signin' %}
+                    {% else %}
+                    <a href="/file">ga naar uw file</a>
+                    
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

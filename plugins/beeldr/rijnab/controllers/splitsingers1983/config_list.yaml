@@ -1,0 +1,12 @@
+list: $/beeldr/rijnab/models/splitsingers1983/columns.yaml
+modelClass: Beeldr\Rijnab\Models\Splitsingers1983
+title: Splitsingers1983
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'beeldr/rijnab/splitsingers1983/update/:id'

@@ -1,0 +1,10 @@
+name: OnzeDiensten
+form: $/beeldr/rijnab/models/onzediensten/fields.yaml
+modelClass: Beeldr\Rijnab\Models\OnzeDiensten
+defaultRedirect: beeldr/rijnab/onzediensten
+create:
+    redirect: 'beeldr/rijnab/onzediensten/update/:id'
+    redirectClose: beeldr/rijnab/onzediensten
+update:
+    redirect: beeldr/rijnab/onzediensten
+    redirectClose: beeldr/rijnab/onzediensten

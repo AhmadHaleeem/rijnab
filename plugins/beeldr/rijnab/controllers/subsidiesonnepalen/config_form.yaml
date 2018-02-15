@@ -1,0 +1,10 @@
+name: SubsidieSonnepalen
+form: $/beeldr/rijnab/models/subsidiezonnepalen/fields.yaml
+modelClass: Beeldr\Rijnab\Models\SubsidieZonnepalen
+defaultRedirect: beeldr/rijnab/subsidiesonnepalen
+create:
+    redirect: 'beeldr/rijnab/subsidiesonnepalen/update/:id'
+    redirectClose: beeldr/rijnab/subsidiesonnepalen
+update:
+    redirect: beeldr/rijnab/subsidiesonnepalen
+    redirectClose: beeldr/rijnab/subsidiesonnepalen

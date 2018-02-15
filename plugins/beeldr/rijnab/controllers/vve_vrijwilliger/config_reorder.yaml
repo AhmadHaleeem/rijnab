@@ -1,0 +1,4 @@
+title: VvE_Vrijwilliger
+modelClass: Beeldr\Rijnab\Models\VvEVrijwilliger
+toolbar:
+    buttons: reorder_toolbar

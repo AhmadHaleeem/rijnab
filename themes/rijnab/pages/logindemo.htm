@@ -1,0 +1,40 @@
+title = "logindemo"
+url = "/logindemo"
+layout = "default"
+is_hidden = 0
+
+[account]
+paramCode = "code"
+forceSecure = 0
+==
+<div class="row col-md-6 col-md-offset-3">
+        <div class=" panel panel-info">
+            <div class="panel-heading" style="width: 100%">Demo Inloggin</div>
+            <div class="panel-body">
+                <div class="">
+
+                    <!--{% partial account ~ '::signin' %}-->
+                    <form name="login">
+                        Gebruikersnaam<input style="margin-top: 10px;margin-bottom: 10px" class="form-control" type="text" name="userid"/>
+                        Wachtwoord<input style="margin-top: 10px;margin-bottom: 10px" class="form-control" type="password" name="pswrd"/>
+                        <input class="btn btn-primary" type="button" onclick="check(this.form)" value="Aanmelden"/>
+                        <input class="btn btn-default" type="reset" value="Cancel"/>
+                    </form>
+                    <script language="javascript">
+                        function check(form)/*function to check userid & password*/
+                        {
+                            /*the following code checkes whether the entered userid and password are matching*/
+                            if(form.userid.value == "demo" && form.pswrd.value == "demo")
+                            {
+                                window.open('/demo')/*opens the target page while Id & password matches*/
+                            }
+                            else
+                            {
+                                alert("Error Wachtwoord or Gebruikersnaam")/*displays error message*/
+                            }
+                        }
+                        </script>
+                </div>
+            </div>
+        </div>
+    </div>

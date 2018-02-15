@@ -1,0 +1,10 @@
+name: Contact
+form: $/beeldr/rijnab/models/contact/fields.yaml
+modelClass: Beeldr\Rijnab\Models\Contact
+defaultRedirect: beeldr/rijnab/contact
+create:
+    redirect: 'beeldr/rijnab/contact/update/:id'
+    redirectClose: beeldr/rijnab/contact
+update:
+    redirect: beeldr/rijnab/contact
+    redirectClose: beeldr/rijnab/contact

@@ -1,0 +1,4 @@
+title: OverOnsPage
+modelClass: Beeldr\Rijnab\Models\OverOns
+toolbar:
+    buttons: reorder_toolbar

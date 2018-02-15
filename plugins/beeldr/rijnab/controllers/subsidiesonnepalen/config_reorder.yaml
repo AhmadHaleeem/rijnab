@@ -1,0 +1,4 @@
+title: SubsidieSonnepalen
+modelClass: Beeldr\Rijnab\Models\SubsidieZonnepalen
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,10 @@
+name: Demo
+form: $/beeldr/rijnab/models/demo/fields.yaml
+modelClass: Beeldr\Rijnab\Models\Demo
+defaultRedirect: beeldr/rijnab/demo
+create:
+    redirect: 'beeldr/rijnab/demo/update/:id'
+    redirectClose: beeldr/rijnab/demo
+update:
+    redirect: beeldr/rijnab/demo
+    redirectClose: beeldr/rijnab/demo

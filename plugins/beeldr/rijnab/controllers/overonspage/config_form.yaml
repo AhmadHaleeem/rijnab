@@ -1,0 +1,10 @@
+name: OverOnsPage
+form: $/beeldr/rijnab/models/overons/fields.yaml
+modelClass: Beeldr\Rijnab\Models\OverOns
+defaultRedirect: beeldr/rijnab/overonspage
+create:
+    redirect: 'beeldr/rijnab/overonspage/update/:id'
+    redirectClose: beeldr/rijnab/overonspage
+update:
+    redirect: beeldr/rijnab/overonspage
+    redirectClose: beeldr/rijnab/overonspage

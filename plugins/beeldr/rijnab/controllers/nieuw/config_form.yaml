@@ -1,0 +1,10 @@
+name: Nieuw
+form: $/beeldr/rijnab/models/nieuw/fields.yaml
+modelClass: Beeldr\Rijnab\Models\Nieuw
+defaultRedirect: beeldr/rijnab/nieuw
+create:
+    redirect: 'beeldr/rijnab/nieuw/update/:id'
+    redirectClose: beeldr/rijnab/nieuw
+update:
+    redirect: beeldr/rijnab/nieuw
+    redirectClose: beeldr/rijnab/nieuw

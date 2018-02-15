@@ -1,0 +1,10 @@
+name: Handig
+form: $/beeldr/rijnab/models/handig/fields.yaml
+modelClass: Beeldr\Rijnab\Models\Handig
+defaultRedirect: beeldr/rijnab/handig
+create:
+    redirect: 'beeldr/rijnab/handig/update/:id'
+    redirectClose: beeldr/rijnab/handig
+update:
+    redirect: beeldr/rijnab/handig
+    redirectClose: beeldr/rijnab/handig

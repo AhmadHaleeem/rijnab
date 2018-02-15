@@ -1,0 +1,4 @@
+title: Demo
+modelClass: Beeldr\Rijnab\Models\Demo
+toolbar:
+    buttons: reorder_toolbar

@@ -1,0 +1,4 @@
+title: Splitsingers1983
+modelClass: Beeldr\Rijnab\Models\Splitsingers1983
+toolbar:
+    buttons: reorder_toolbar

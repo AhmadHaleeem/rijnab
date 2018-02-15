@@ -1,0 +1,26 @@
+title = "splitsingers2006"
+url = "/splitsingers2006"
+layout = "default"
+is_hidden = 0
+
+[builderList]
+modelClass = "Beeldr\Rijnab\Models\Splitsingers2006"
+scope = "-"
+displayColumn = "body"
+noRecordsMessage = "No records found"
+detailsPage = "-"
+detailsUrlParameter = "id"
+pageNumber = "{{ :page }}"
+==
+<div class="record-list">
+    {% for record in records %}
+    <img style="width: 100%" src="{{ record.poster.path }}">
+
+    <div style="margin-top: 30px" class="row">
+        <div class="col-md-9">
+            {{ record.body|raw }}
+        </div>
+    </div>
+
+    {% endfor %}
+</div>

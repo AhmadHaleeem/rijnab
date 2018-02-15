@@ -1,0 +1,70 @@
+1518703282a:1:{s:13:"logindemo.htm";a:10:{s:8:"fileName";s:13:"logindemo.htm";s:7:"content";s:1870:"title = "logindemo"
+url = "/logindemo"
+layout = "default"
+is_hidden = 0
+
+[account]
+paramCode = "code"
+forceSecure = 0
+==
+<div class="row col-md-6 col-md-offset-3">
+        <div class=" panel panel-info">
+            <div class="panel-heading" style="width: 100%">Demo Inloggin</div>
+            <div class="panel-body">
+                <div class="">
+                    
+                    <!--{% partial account ~ '::signin' %}-->
+                    <form name="login">
+                        Gebruikersnaam<input style="margin-top: 10px;margin-bottom: 10px" class="form-control" type="text" name="userid"/>
+                        Wachtwoord<input style="margin-top: 10px;margin-bottom: 10px" class="form-control" type="password" name="pswrd"/>
+                        <input class="btn btn-primary" type="button" onclick="check(this.form)" value="Aanmelden"/>
+                        <input class="btn btn-default" type="reset" value="Cancel"/>
+                    </form>
+                    <script language="javascript">
+                        function check(form)/*function to check userid & password*/
+                        {
+                            /*the following code checkes whether the entered userid and password are matching*/
+                            if(form.userid.value == "demo" && form.pswrd.value == "demo")
+                            {
+                                window.open('/demo')/*opens the target page while Id & password matches*/
+                            }
+                            else
+                            {
+                                alert("Error Wachtwoord or Gebruikersnaam")/*displays error message*/
+                            }
+                        }
+                        </script>
+                </div>
+            </div>
+        </div>
+    </div>";s:5:"mtime";i:1518702680;s:6:"markup";s:1740:"<div class="row col-md-6 col-md-offset-3">
+        <div class=" panel panel-info">
+            <div class="panel-heading" style="width: 100%">Demo Inloggin</div>
+            <div class="panel-body">
+                <div class="">
+                    
+                    <!--{% partial account ~ '::signin' %}-->
+                    <form name="login">
+                        Gebruikersnaam<input style="margin-top: 10px;margin-bottom: 10px" class="form-control" type="text" name="userid"/>
+                        Wachtwoord<input style="margin-top: 10px;margin-bottom: 10px" class="form-control" type="password" name="pswrd"/>
+                        <input class="btn btn-primary" type="button" onclick="check(this.form)" value="Aanmelden"/>
+                        <input class="btn btn-default" type="reset" value="Cancel"/>
+                    </form>
+                    <script language="javascript">
+                        function check(form)/*function to check userid & password*/
+                        {
+                            /*the following code checkes whether the entered userid and password are matching*/
+                            if(form.userid.value == "demo" && form.pswrd.value == "demo")
+                            {
+                                window.open('/demo')/*opens the target page while Id & password matches*/
+                            }
+                            else
+                            {
+                                alert("Error Wachtwoord or Gebruikersnaam")/*displays error message*/
+                            }
+                        }
+                        </script>
+                </div>
+            </div>
+        </div>
+    </div>";s:4:"code";N;s:5:"title";s:9:"logindemo";s:3:"url";s:10:"/logindemo";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";s:7:"account";a:2:{s:9:"paramCode";s:4:"code";s:11:"forceSecure";s:1:"0";}}}

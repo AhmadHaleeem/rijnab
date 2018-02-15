@@ -1,0 +1,4 @@
+title: MijnVve
+modelClass: Beeldr\Rijnab\Models\MijnVve
+toolbar:
+    buttons: reorder_toolbar

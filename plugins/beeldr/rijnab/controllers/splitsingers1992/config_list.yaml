@@ -1,0 +1,12 @@
+list: $/beeldr/rijnab/models/splitsingers1992/columns.yaml
+modelClass: Beeldr\Rijnab\Models\Splitsingers1992
+title: Splitsingers1992
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+recordsPerPage: 20
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'beeldr/rijnab/splitsingers1992/update/:id'

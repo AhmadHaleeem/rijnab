@@ -1,0 +1,10 @@
+name: VvE_Vrijwilliger
+form: $/beeldr/rijnab/models/vvevrijwilliger/fields.yaml
+modelClass: Beeldr\Rijnab\Models\VvEVrijwilliger
+defaultRedirect: beeldr/rijnab/vve_vrijwilliger
+create:
+    redirect: 'beeldr/rijnab/vve_vrijwilliger/update/:id'
+    redirectClose: beeldr/rijnab/vve_vrijwilliger
+update:
+    redirect: beeldr/rijnab/vve_vrijwilliger
+    redirectClose: beeldr/rijnab/vve_vrijwilliger
