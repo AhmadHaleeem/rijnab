@@ -1,4 +1,9 @@
 fields:
+    title:
+        label: Title
+        oc.commentPosition: ''
+        span: left
+        type: text
     poster:
         label: Poster
         oc.commentPosition: ''
@@ -7,7 +12,7 @@ fields:
         thumbOptions:
             mode: crop
             extension: auto
-        span: auto
+        span: full
         type: fileupload
     body:
         label: HeaderBody

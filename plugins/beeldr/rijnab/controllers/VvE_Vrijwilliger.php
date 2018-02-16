@@ -15,6 +15,6 @@ class VvE_Vrijwilliger extends Controller
     public function __construct()
     {
         parent::__construct();
-        BackendMenu::setContext('Beeldr.Rijnab', 'main-menu-item7');
+        BackendMenu::setContext('Beeldr.Rijnab', 'main-menu-item6', 'side-menu-item');
     }
 }

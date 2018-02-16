@@ -1,4 +1,4 @@
-1518703282a:1:{s:13:"logindemo.htm";a:10:{s:8:"fileName";s:13:"logindemo.htm";s:7:"content";s:1870:"title = "logindemo"
+1518772499a:1:{s:13:"logindemo.htm";a:10:{s:8:"fileName";s:13:"logindemo.htm";s:7:"content";s:1852:"title = "logindemo"
 url = "/logindemo"
 layout = "default"
 is_hidden = 0
@@ -12,7 +12,7 @@ forceSecure = 0
             <div class="panel-heading" style="width: 100%">Demo Inloggin</div>
             <div class="panel-body">
                 <div class="">
-                    
+
                     <!--{% partial account ~ '::signin' %}-->
                     <form name="login">
                         Gebruikersnaam<input style="margin-top: 10px;margin-bottom: 10px" class="form-control" type="text" name="userid"/>
@@ -21,7 +21,7 @@ forceSecure = 0
                         <input class="btn btn-default" type="reset" value="Cancel"/>
                     </form>
                     <script language="javascript">
-                        function check(form)/*function to check userid & password*/
+                        function check(form)/* function to check userid & password */
                         {
                             /*the following code checkes whether the entered userid and password are matching*/
                             if(form.userid.value == "demo" && form.pswrd.value == "demo")
@@ -37,12 +37,12 @@ forceSecure = 0
                 </div>
             </div>
         </div>
-    </div>";s:5:"mtime";i:1518702680;s:6:"markup";s:1740:"<div class="row col-md-6 col-md-offset-3">
+    </div>";s:5:"mtime";i:1518769624;s:6:"markup";s:1722:"<div class="row col-md-6 col-md-offset-3">
         <div class=" panel panel-info">
             <div class="panel-heading" style="width: 100%">Demo Inloggin</div>
             <div class="panel-body">
                 <div class="">
-                    
+
                     <!--{% partial account ~ '::signin' %}-->
                     <form name="login">
                         Gebruikersnaam<input style="margin-top: 10px;margin-bottom: 10px" class="form-control" type="text" name="userid"/>
@@ -51,7 +51,7 @@ forceSecure = 0
                         <input class="btn btn-default" type="reset" value="Cancel"/>
                     </form>
                     <script language="javascript">
-                        function check(form)/*function to check userid & password*/
+                        function check(form)/* function to check userid & password */
                         {
                             /*the following code checkes whether the entered userid and password are matching*/
                             if(form.userid.value == "demo" && form.pswrd.value == "demo")

@@ -21,7 +21,7 @@ class __TwigTemplate_3db2d7b3095a8acdc5e26ba9072561c16ee6b6cf916760c0c4e5e970579
             <div class=\"panel-heading\" style=\"width: 100%\">Demo Inloggin</div>
             <div class=\"panel-body\">
                 <div class=\"\">
-                    
+
                     <!--";
         // line 7
         $context['__cms_partial_params'] = [];
@@ -35,7 +35,7 @@ class __TwigTemplate_3db2d7b3095a8acdc5e26ba9072561c16ee6b6cf916760c0c4e5e970579
                         <input class=\"btn btn-default\" type=\"reset\" value=\"Cancel\"/>
                     </form>
                     <script language=\"javascript\">
-                        function check(form)/*function to check userid & password*/
+                        function check(form)/* function to check userid & password */
                         {
                             /*the following code checkes whether the entered userid and password are matching*/
                             if(form.userid.value == \"demo\" && form.pswrd.value == \"demo\")
@@ -76,7 +76,7 @@ class __TwigTemplate_3db2d7b3095a8acdc5e26ba9072561c16ee6b6cf916760c0c4e5e970579
             <div class=\"panel-heading\" style=\"width: 100%\">Demo Inloggin</div>
             <div class=\"panel-body\">
                 <div class=\"\">
-                    
+
                     <!--{% partial account ~ '::signin' %}-->
                     <form name=\"login\">
                         Gebruikersnaam<input style=\"margin-top: 10px;margin-bottom: 10px\" class=\"form-control\" type=\"text\" name=\"userid\"/>
@@ -85,7 +85,7 @@ class __TwigTemplate_3db2d7b3095a8acdc5e26ba9072561c16ee6b6cf916760c0c4e5e970579
                         <input class=\"btn btn-default\" type=\"reset\" value=\"Cancel\"/>
                     </form>
                     <script language=\"javascript\">
-                        function check(form)/*function to check userid & password*/
+                        function check(form)/* function to check userid & password */
                         {
                             /*the following code checkes whether the entered userid and password are matching*/
                             if(form.userid.value == \"demo\" && form.pswrd.value == \"demo\")

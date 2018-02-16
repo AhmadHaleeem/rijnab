@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6c2b032-67d1-4a3c-a6ee-62adaaf79d7a" name="Default" comment="" />
+    <list default="true" id="d6c2b032-67d1-4a3c-a6ee-62adaaf79d7a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/500d9mUTDs7f0IjOBoiLD7JeWxlDLinvcvMqWemm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/9UY72w69P4jmmtr4dSnJk6JJlMHisbloc33KT3vR" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/9iUEAXyujBa05aqy8lSneCZPRVVQwlSliNh10Ibh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/EbJtdyf5cMQc1tNvrQKEcCC7qKipzCto9QZC2WUD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/JC3iv0S3ybL3BFU186uShlGY1Iig57ruv2TzwwC3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/OMOur3xk9dsRCdD0UHa8WAEeiNPXavab6YJwsaPd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/Q28CJZUYfCxcLQUpaI47kuskHxVpRwTl3Z4IbQcs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/SYUDF7FpGnLim19JGSfIGlej9Y3r99iBQPxRLL11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/katBMoDEOCxsBPchaitj4Xlb1vcJ6K4PMGpsaBfn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/m2yG6um9W4XNPufR3Z8lbbBTyXncr96uI6m2E6ri" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/pRWYxffgIbDp07S2Etkcj7cCTk790wxRJzG6i98d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/t2MaeiifGWhE8wHT2CYlkmm97IEUVMabmKvJSRl3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/tUuYhFcOEhW97TbTgBoDiudtJsDkrnDb609nBqd5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/vHmNz0JrGc8u9mO1J9D0UY9GtTBiWaWEIqvEJjCt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/yIivwHZYIAsCVPyjadxtmLE2S3m2QZZNbr1cVYvr" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Contact.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OnzeDiensten.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OnzeDiensten.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OverOnsPage.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OverOnsPage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/SubsidieSonnepalen.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/SubsidieSonnepalen.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/VvE_Vrijwilliger.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/VvE_Vrijwilliger.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/vve_vrijwilliger/config_list.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/vve_vrijwilliger/config_list.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/contact/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/contact/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/contact/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/contact/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/demo/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/demo/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/demo/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/demo/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/handig/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/handig/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/handig/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/handig/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/homepage/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/homepage/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/homepage/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/homepage/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/mijnvve/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/mijnvve/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/mijnvve/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/mijnvve/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/nieuw/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/nieuw/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/nieuw/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/nieuw/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/onzediensten/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/onzediensten/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/onzediensten/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/onzediensten/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/overons/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/overons/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/overons/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/overons/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1973/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1973/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1973/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1973/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1983/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1983/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1983/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1983/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1992/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1992/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1992/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1992/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers2006/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers2006/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers2006/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers2006/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/subsidiezonnepalen/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/subsidiezonnepalen/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/subsidiezonnepalen/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/subsidiezonnepalen/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vveigenaren/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vveigenaren/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vveigenaren/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vveigenaren/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vvevrijwilliger/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vvevrijwilliger/columns.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vvevrijwilliger/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vvevrijwilliger/fields.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/plugin.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/plugin.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/updates/version.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/65/14/logindemo.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/65/14/logindemo.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/35/358c401374eab3f6659a0ba4bda142600c76ab1513c4f007d79a1f73e5678439.php" afterPath="$PROJECT_DIR$/storage/cms/twig/35/358c401374eab3f6659a0ba4bda142600c76ab1513c4f007d79a1f73e5678439.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/02/e1/02e1b3b9fd15e2fef1684f200327ab51e7add80d" afterPath="$PROJECT_DIR$/storage/framework/cache/02/e1/02e1b3b9fd15e2fef1684f200327ab51e7add80d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/16/f6/16f61933b6f2bee4f90384297736a3e868c6cc1f" afterPath="$PROJECT_DIR$/storage/framework/cache/16/f6/16f61933b6f2bee4f90384297736a3e868c6cc1f" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/20/c6/20c6d38100cc32ec1e80bb231b5b6a02815f9f87" afterPath="$PROJECT_DIR$/storage/framework/cache/20/c6/20c6d38100cc32ec1e80bb231b5b6a02815f9f87" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2b/39/2b39a0b1285acb975d9b434bc1425857fc3bb663" afterPath="$PROJECT_DIR$/storage/framework/cache/2b/39/2b39a0b1285acb975d9b434bc1425857fc3bb663" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2b/e2/2be2a6176c13d5cfa05d0e4afbd1de327ed7a666" afterPath="$PROJECT_DIR$/storage/framework/cache/2b/e2/2be2a6176c13d5cfa05d0e4afbd1de327ed7a666" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/3f/7c/3f7cc082552ac4f55622bb2de13162fb843d7300" afterPath="$PROJECT_DIR$/storage/framework/cache/3f/7c/3f7cc082552ac4f55622bb2de13162fb843d7300" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/49/28/49282dd15672b15585fd99c37ba5e838c3db0d97" afterPath="$PROJECT_DIR$/storage/framework/cache/49/28/49282dd15672b15585fd99c37ba5e838c3db0d97" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/4d/5f/4d5f7ccd6ec14dac37f4e1b6cc2fe4a1c027abf0" afterPath="$PROJECT_DIR$/storage/framework/cache/4d/5f/4d5f7ccd6ec14dac37f4e1b6cc2fe4a1c027abf0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/53/b7/53b7defc5ce943a03d9585456115224c7c2fd8d0" afterPath="$PROJECT_DIR$/storage/framework/cache/53/b7/53b7defc5ce943a03d9585456115224c7c2fd8d0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/54/d2/54d2ff47c3e385dcb604ae214669627febbbd389" afterPath="$PROJECT_DIR$/storage/framework/cache/54/d2/54d2ff47c3e385dcb604ae214669627febbbd389" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterPath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/6c/d1/6cd1cb3bf8daf4b5c654e31ea910422a1d1ef178" afterPath="$PROJECT_DIR$/storage/framework/cache/6c/d1/6cd1cb3bf8daf4b5c654e31ea910422a1d1ef178" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/76/83/7683e76bc96f355442ca9d078733cccfd9e5207b" afterPath="$PROJECT_DIR$/storage/framework/cache/76/83/7683e76bc96f355442ca9d078733cccfd9e5207b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/7a/50/7a506d387d1bf050fab4681aae4e3a930961929b" afterPath="$PROJECT_DIR$/storage/framework/cache/7a/50/7a506d387d1bf050fab4681aae4e3a930961929b" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/7f/61/7f61a7be7fbe3325e30e875738c12321329134a6" afterPath="$PROJECT_DIR$/storage/framework/cache/7f/61/7f61a7be7fbe3325e30e875738c12321329134a6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/8d/1e/8d1e6ea1223179611937f41c358d0ef5847fdb39" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/1e/8d1e6ea1223179611937f41c358d0ef5847fdb39" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterPath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" afterPath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a5/62/a56218a2ccc953be0c6926318674236214fb1494" afterPath="$PROJECT_DIR$/storage/framework/cache/a5/62/a56218a2ccc953be0c6926318674236214fb1494" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b2/7e/b27e137d76478f838ab5780caea4bd1e40e22f44" afterPath="$PROJECT_DIR$/storage/framework/cache/b2/7e/b27e137d76478f838ab5780caea4bd1e40e22f44" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b5/e9/b5e993b59721941d311765b4600351d6f448510a" afterPath="$PROJECT_DIR$/storage/framework/cache/b5/e9/b5e993b59721941d311765b4600351d6f448510a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/ba/1f/ba1fe2fcd2a32a8620ffc869bbcc38e7a54545dd" afterPath="$PROJECT_DIR$/storage/framework/cache/ba/1f/ba1fe2fcd2a32a8620ffc869bbcc38e7a54545dd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/bf/0c/bf0cfdcace7ec8bf0087af47fcd608b3fecdddd1" afterPath="$PROJECT_DIR$/storage/framework/cache/bf/0c/bf0cfdcace7ec8bf0087af47fcd608b3fecdddd1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d6/e4/d6e479c04c494d030b8fd80e480606219db5c82c" afterPath="$PROJECT_DIR$/storage/framework/cache/d6/e4/d6e479c04c494d030b8fd80e480606219db5c82c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/dd/0b/dd0bb5a4d3ace468344f991a79b63b78fb4fcbd6" afterPath="$PROJECT_DIR$/storage/framework/cache/dd/0b/dd0bb5a4d3ace468344f991a79b63b78fb4fcbd6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm" afterPath="$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,21 +97,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mijnvve.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/mijnvve.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="logindemo.htm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="logindemo.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+            <state relative-caret-position="365">
+              <caret line="26" column="89" lean-forward="true" selection-start-line="26" selection-start-column="89" selection-end-line="26" selection-end-column="89" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -35,10 +111,30 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="OverOnsPage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OverOnsPage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="17" column="82" lean-forward="false" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MijnVve.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="login.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/login.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="460">
               <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -72,15 +168,12 @@
       <find>sign in</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/rijnab/pages/splitsingers1983.htm" />
-        <option value="$PROJECT_DIR$/themes/rijnab/pages/splitsingers1992.htm" />
-        <option value="$PROJECT_DIR$/themes/rijnab/pages/splitsingers2006.htm" />
-        <option value="$PROJECT_DIR$/themes/rijnab/pages/splitsingers1973.htm" />
-        <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/models/Splitsingers2006.php" />
-        <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/models/Splitsingers1992.php" />
         <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/models/Splitsingers1983.php" />
         <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/models/Splitsingers1973.php" />
         <option value="$PROJECT_DIR$/themes/rijnab/pages/homepage.htm" />
@@ -126,6 +219,12 @@
         <option value="$PROJECT_DIR$/themes/rijnab/pages/login.htm" />
         <option value="$PROJECT_DIR$/storage/cms/twig/f7/f71acf6c862a4a712971312cac581d8904ed12a20e490a6f5edc897f9895ad95.php" />
         <option value="$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm" />
+        <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/VvE_Vrijwilliger.php" />
+        <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/SubsidieSonnepalen.php" />
+        <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OnzeDiensten.php" />
+        <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Contact.php" />
+        <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OverOnsPage.php" />
+        <option value="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php" />
       </list>
     </option>
   </component>
@@ -137,8 +236,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1529" />
-    <option name="y" value="-150" />
+    <option name="x" value="1672" />
+    <option name="y" value="-131" />
     <option name="width" value="1658" />
     <option name="height" value="944" />
   </component>
@@ -158,6 +257,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -173,8 +273,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -190,34 +290,23 @@
             <path>
               <item name="oc" type="b2602c69:ProjectViewProjectNode" />
               <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="beeldr" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="oc" type="b2602c69:ProjectViewProjectNode" />
               <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="beeldr" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="rijnab" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="oc" type="b2602c69:ProjectViewProjectNode" />
               <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="beeldr" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="rijnab" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="oc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="rijnab" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="oc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="rijnab" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -283,32 +372,33 @@
       <workItem from="1513694054677" duration="52000" />
       <workItem from="1518697621648" duration="2824000" />
       <workItem from="1518701779356" duration="813000" />
+      <workItem from="1518769573751" duration="708000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55260000" />
+    <option name="totallyTimeSpent" value="55968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1529" y="-150" width="1658" height="944" extended-state="0" />
+    <frame x="1672" y="-131" width="1658" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19492574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19740099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2720848" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -325,36 +415,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/backend/facades/BackendAuth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/File.php" />
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/user/components/Account.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="107" column="9" lean-forward="true" selection-start-line="107" selection-start-column="9" selection-end-line="107" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/plugin.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/models/file/fields.yaml" />
-    <entry file="file://$PROJECT_DIR$/plugins/rainlab/user/models/user/columns.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/rainlab/user/updates/version.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-770">
@@ -478,13 +538,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Nieuw.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -527,13 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/models/VvEVrijwilliger.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/vereniging-van-eigenaren.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -569,13 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/rijnab/layouts/static-layout.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1081">
-          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/models/Handig.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="448">
@@ -587,13 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/demo.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -622,18 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="274">
           <caret line="40" column="51" lean-forward="false" selection-start-line="40" selection-start-column="51" selection-end-line="40" selection-end-column="51" />
-          <folding>
-            <marker date="1518702425491" expanded="true" signature="512:1132" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="573:816" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="637:805" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="848:1050" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="865:1039" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="1471:2089" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="1532:1775" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="1596:1764" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="1807:2009" ph="..." />
-            <marker date="1518702425491" expanded="true" signature="1824:1998" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
           <caret line="31" column="17" lean-forward="false" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,15 +675,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
           <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#li#7;n#ul#0;n#div#1;n#div#0;n#nav#0;n#!!top" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/mijnvve.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/login.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="460">
           <caret line="20" column="37" lean-forward="false" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -673,23 +696,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/mijnvve.htm">
+    <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/demo.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
+        <state relative-caret-position="342">
+          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/rijnab/layouts/static-layout.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1081">
+          <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/models/VvEVrijwilliger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/VvE_Vrijwilliger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/SubsidieSonnepalen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Splitsingers1973.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OnzeDiensten.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        <state relative-caret-position="365">
+          <caret line="26" column="89" lean-forward="true" selection-start-line="26" selection-start-column="89" selection-end-line="26" selection-end-column="89" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OverOnsPage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="17" column="82" lean-forward="false" selection-start-line="17" selection-start-column="82" selection-end-line="17" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -162,3 +162,54 @@
 1.0.55:
     - 'Created table beeldr_rijnab_vveigenaren'
     - builder_table_create_beeldr_rijnab_vveigenaren.php
+1.0.56:
+    - 'Updated table beeldr_rijnab_handig'
+    - builder_table_update_beeldr_rijnab_handig.php
+1.0.57:
+    - 'Updated table beeldr_rijnab_splitsingers1973'
+    - builder_table_update_beeldr_rijnab_splitsingers1973.php
+1.0.58:
+    - 'Updated table beeldr_rijnab_splitsingers1982'
+    - builder_table_update_beeldr_rijnab_splitsingers1982.php
+1.0.59:
+    - 'Updated table beeldr_rijnab_splitsingers1992'
+    - builder_table_update_beeldr_rijnab_splitsingers1992.php
+1.0.60:
+    - 'Updated table beeldr_rijnab_splitsingers2006'
+    - builder_table_update_beeldr_rijnab_splitsingers2006.php
+1.0.61:
+    - 'Updated table beeldr_rijnab_contact'
+    - builder_table_update_beeldr_rijnab_contact_3.php
+1.0.62:
+    - 'Updated table beeldr_rijnab_demo'
+    - builder_table_update_beeldr_rijnab_demo.php
+1.0.63:
+    - 'Updated table beeldr_rijnab_homepage'
+    - builder_table_update_beeldr_rijnab_homepage_4.php
+1.0.64:
+    - 'Updated table beeldr_rijnab_mijnvve'
+    - builder_table_update_beeldr_rijnab_mijnvve.php
+1.0.65:
+    - 'Updated table beeldr_rijnab_nieuw'
+    - builder_table_update_beeldr_rijnab_nieuw.php
+1.0.66:
+    - 'Updated table beeldr_rijnab_onze_diensten'
+    - builder_table_update_beeldr_rijnab_onze_diensten_2.php
+1.0.67:
+    - 'Updated table beeldr_rijnab_over_ons'
+    - builder_table_update_beeldr_rijnab_over_ons_2.php
+1.0.68:
+    - 'Updated table beeldr_rijnab_subsidie_zonnepalen'
+    - builder_table_update_beeldr_rijnab_subsidie_zonnepalen.php
+1.0.69:
+    - 'Updated table beeldr_rijnab_vve_vrijwilliger'
+    - builder_table_update_beeldr_rijnab_vve_vrijwilliger.php
+1.0.70:
+    - 'Updated table beeldr_rijnab_vveigenaren'
+    - builder_table_update_beeldr_rijnab_vveigenaren.php
+1.0.71:
+    - 'Updated table beeldr_rijnab_vve_vrijwilliger'
+    - builder_table_update_beeldr_rijnab_vve_vrijwilliger_2.php
+1.0.72:
+    - 'Updated table beeldr_rijnab_vve_vrijwilliger'
+    - builder_table_update_beeldr_rijnab_vve_vrijwilliger_3.php

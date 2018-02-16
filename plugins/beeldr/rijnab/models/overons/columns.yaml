@@ -1,6 +1,6 @@
 columns:
-    body:
-        label: Body
+    title:
+        label: Title
         type: text
         searchable: true
         sortable: true

@@ -1,12 +1,12 @@
-list: $/beeldr/rijnab/models/vvevrijwilliger/columns.yaml
-modelClass: Beeldr\Rijnab\Models\VvEVrijwilliger
 title: VvE_Vrijwilliger
+modelClass: Beeldr\Rijnab\Models\VvEVrijwilliger
+list: $/beeldr/rijnab/models/vvevrijwilliger/columns.yaml
+recordUrl: 'beeldr/rijnab/vve_vrijwilliger/update/:id'
 noRecordsMessage: 'backend::lang.list.no_records'
+recordsPerPage: 20
 showSetup: true
 showCheckboxes: true
-recordsPerPage: 20
 toolbar:
     buttons: list_toolbar
     search:
         prompt: 'backend::lang.list.search_prompt'
-recordUrl: 'beeldr/rijnab/vve_vrijwilliger/update/:id'

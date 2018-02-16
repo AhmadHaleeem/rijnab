@@ -10,10 +10,14 @@ navigation:
         url: beeldr/rijnab/headerpage
         icon: icon-desktop
         sideMenu:
-            side-menu-item:
-                label: OveronsPage
-                url: beeldr/rijnab/overonspage
-                icon: icon-signal
+            side-menu-item6:
+                label: Vveigenaren
+                url: beeldr/rijnab/vveigenaren
+                icon: icon-print
+            side-menu-item5:
+                label: Demo
+                url: beeldr/rijnab/demo
+                icon: icon-turkish-lira
             side-menu-item2:
                 label: OnzeDiensten
                 url: beeldr/rijnab/onzediensten
@@ -22,18 +26,14 @@ navigation:
                 label: Contact
                 url: beeldr/rijnab/contact
                 icon: icon-slack
+            side-menu-item:
+                label: OveronsPage
+                url: beeldr/rijnab/overonspage
+                icon: icon-signal
             side-menu-item4:
                 label: mijnVve
                 url: beeldr/rijnab/mijnvve
-                icon: icon-slideshare
-            side-menu-item5:
-                label: Demo
-                url: beeldr/rijnab/demo
-                icon: icon-turkish-lira
-            side-menu-item6:
-                label: Vveigenaren
-                url: beeldr/rijnab/vveigenaren
-                icon: icon-print
+                icon: icon-ticket
     main-menu-item5:
         label: Handig
         url: beeldr/rijnab/handig

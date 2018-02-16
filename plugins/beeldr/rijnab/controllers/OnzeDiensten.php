@@ -15,6 +15,6 @@ class OnzeDiensten extends Controller
     public function __construct()
     {
         parent::__construct();
-        BackendMenu::setContext('Beeldr.Rijnab', 'main-menu-item3');
+        BackendMenu::setContext('Beeldr.Rijnab', 'main-menu-item', 'side-menu-item2');
     }
 }

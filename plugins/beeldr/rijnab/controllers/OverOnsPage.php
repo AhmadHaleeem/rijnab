@@ -15,6 +15,6 @@ class OverOnsPage extends Controller
     public function __construct()
     {
         parent::__construct();
-        BackendMenu::setContext('Beeldr.Rijnab', 'main-menu-item2');
+        BackendMenu::setContext('Beeldr.Rijnab', 'main-menu-item', 'side-menu-item');
     }
 }
