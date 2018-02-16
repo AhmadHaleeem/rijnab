@@ -2,91 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d6c2b032-67d1-4a3c-a6ee-62adaaf79d7a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/500d9mUTDs7f0IjOBoiLD7JeWxlDLinvcvMqWemm" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/9UY72w69P4jmmtr4dSnJk6JJlMHisbloc33KT3vR" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/9iUEAXyujBa05aqy8lSneCZPRVVQwlSliNh10Ibh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/EbJtdyf5cMQc1tNvrQKEcCC7qKipzCto9QZC2WUD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/JC3iv0S3ybL3BFU186uShlGY1Iig57ruv2TzwwC3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/OMOur3xk9dsRCdD0UHa8WAEeiNPXavab6YJwsaPd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/Q28CJZUYfCxcLQUpaI47kuskHxVpRwTl3Z4IbQcs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/SYUDF7FpGnLim19JGSfIGlej9Y3r99iBQPxRLL11" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/katBMoDEOCxsBPchaitj4Xlb1vcJ6K4PMGpsaBfn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/m2yG6um9W4XNPufR3Z8lbbBTyXncr96uI6m2E6ri" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/pRWYxffgIbDp07S2Etkcj7cCTk790wxRJzG6i98d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/t2MaeiifGWhE8wHT2CYlkmm97IEUVMabmKvJSRl3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/tUuYhFcOEhW97TbTgBoDiudtJsDkrnDb609nBqd5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/vHmNz0JrGc8u9mO1J9D0UY9GtTBiWaWEIqvEJjCt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/storage/framework/sessions/yIivwHZYIAsCVPyjadxtmLE2S3m2QZZNbr1cVYvr" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Contact.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/Contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OnzeDiensten.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OnzeDiensten.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OverOnsPage.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/OverOnsPage.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/SubsidieSonnepalen.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/SubsidieSonnepalen.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/VvE_Vrijwilliger.php" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/VvE_Vrijwilliger.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/vve_vrijwilliger/config_list.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/vve_vrijwilliger/config_list.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/contact/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/contact/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/contact/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/contact/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/demo/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/demo/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/demo/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/demo/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/handig/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/handig/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/handig/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/handig/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/homepage/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/homepage/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/homepage/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/homepage/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/mijnvve/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/mijnvve/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/mijnvve/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/mijnvve/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/nieuw/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/nieuw/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/nieuw/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/nieuw/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/onzediensten/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/onzediensten/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/onzediensten/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/onzediensten/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/overons/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/overons/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/overons/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/overons/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1973/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1973/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1973/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1973/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1983/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1983/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1983/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1983/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1992/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1992/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1992/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers1992/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers2006/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers2006/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers2006/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/splitsingers2006/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/subsidiezonnepalen/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/subsidiezonnepalen/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/subsidiezonnepalen/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/subsidiezonnepalen/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vveigenaren/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vveigenaren/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vveigenaren/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vveigenaren/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vvevrijwilliger/columns.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vvevrijwilliger/columns.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vvevrijwilliger/fields.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/models/vvevrijwilliger/fields.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/plugin.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/plugin.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/beeldr/rijnab/updates/version.yaml" afterPath="$PROJECT_DIR$/plugins/beeldr/rijnab/updates/version.yaml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/cache/65/14/logindemo.htm.php" afterPath="$PROJECT_DIR$/storage/cms/cache/65/14/logindemo.htm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/cms/twig/35/358c401374eab3f6659a0ba4bda142600c76ab1513c4f007d79a1f73e5678439.php" afterPath="$PROJECT_DIR$/storage/cms/twig/35/358c401374eab3f6659a0ba4bda142600c76ab1513c4f007d79a1f73e5678439.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/02/e1/02e1b3b9fd15e2fef1684f200327ab51e7add80d" afterPath="$PROJECT_DIR$/storage/framework/cache/02/e1/02e1b3b9fd15e2fef1684f200327ab51e7add80d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/16/f6/16f61933b6f2bee4f90384297736a3e868c6cc1f" afterPath="$PROJECT_DIR$/storage/framework/cache/16/f6/16f61933b6f2bee4f90384297736a3e868c6cc1f" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/20/c6/20c6d38100cc32ec1e80bb231b5b6a02815f9f87" afterPath="$PROJECT_DIR$/storage/framework/cache/20/c6/20c6d38100cc32ec1e80bb231b5b6a02815f9f87" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2b/39/2b39a0b1285acb975d9b434bc1425857fc3bb663" afterPath="$PROJECT_DIR$/storage/framework/cache/2b/39/2b39a0b1285acb975d9b434bc1425857fc3bb663" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/2b/e2/2be2a6176c13d5cfa05d0e4afbd1de327ed7a666" afterPath="$PROJECT_DIR$/storage/framework/cache/2b/e2/2be2a6176c13d5cfa05d0e4afbd1de327ed7a666" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/3f/7c/3f7cc082552ac4f55622bb2de13162fb843d7300" afterPath="$PROJECT_DIR$/storage/framework/cache/3f/7c/3f7cc082552ac4f55622bb2de13162fb843d7300" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/49/28/49282dd15672b15585fd99c37ba5e838c3db0d97" afterPath="$PROJECT_DIR$/storage/framework/cache/49/28/49282dd15672b15585fd99c37ba5e838c3db0d97" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/4d/5f/4d5f7ccd6ec14dac37f4e1b6cc2fe4a1c027abf0" afterPath="$PROJECT_DIR$/storage/framework/cache/4d/5f/4d5f7ccd6ec14dac37f4e1b6cc2fe4a1c027abf0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/53/b7/53b7defc5ce943a03d9585456115224c7c2fd8d0" afterPath="$PROJECT_DIR$/storage/framework/cache/53/b7/53b7defc5ce943a03d9585456115224c7c2fd8d0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/54/d2/54d2ff47c3e385dcb604ae214669627febbbd389" afterPath="$PROJECT_DIR$/storage/framework/cache/54/d2/54d2ff47c3e385dcb604ae214669627febbbd389" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" afterPath="$PROJECT_DIR$/storage/framework/cache/66/65/666582ffea28796aac87443dbbc6420b7c6df7cd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/6c/d1/6cd1cb3bf8daf4b5c654e31ea910422a1d1ef178" afterPath="$PROJECT_DIR$/storage/framework/cache/6c/d1/6cd1cb3bf8daf4b5c654e31ea910422a1d1ef178" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/76/83/7683e76bc96f355442ca9d078733cccfd9e5207b" afterPath="$PROJECT_DIR$/storage/framework/cache/76/83/7683e76bc96f355442ca9d078733cccfd9e5207b" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/7a/50/7a506d387d1bf050fab4681aae4e3a930961929b" afterPath="$PROJECT_DIR$/storage/framework/cache/7a/50/7a506d387d1bf050fab4681aae4e3a930961929b" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/7f/61/7f61a7be7fbe3325e30e875738c12321329134a6" afterPath="$PROJECT_DIR$/storage/framework/cache/7f/61/7f61a7be7fbe3325e30e875738c12321329134a6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/8d/1e/8d1e6ea1223179611937f41c358d0ef5847fdb39" afterPath="$PROJECT_DIR$/storage/framework/cache/8d/1e/8d1e6ea1223179611937f41c358d0ef5847fdb39" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" afterPath="$PROJECT_DIR$/storage/framework/cache/97/39/9739b3a900e31d6b7467fc7f7b244804b462b524" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" afterPath="$PROJECT_DIR$/storage/framework/cache/9a/e8/9ae8ba54c10c58926a7502abb5f7ba6ba6d19951" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/a5/62/a56218a2ccc953be0c6926318674236214fb1494" afterPath="$PROJECT_DIR$/storage/framework/cache/a5/62/a56218a2ccc953be0c6926318674236214fb1494" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b2/7e/b27e137d76478f838ab5780caea4bd1e40e22f44" afterPath="$PROJECT_DIR$/storage/framework/cache/b2/7e/b27e137d76478f838ab5780caea4bd1e40e22f44" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/b5/e9/b5e993b59721941d311765b4600351d6f448510a" afterPath="$PROJECT_DIR$/storage/framework/cache/b5/e9/b5e993b59721941d311765b4600351d6f448510a" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/ba/1f/ba1fe2fcd2a32a8620ffc869bbcc38e7a54545dd" afterPath="$PROJECT_DIR$/storage/framework/cache/ba/1f/ba1fe2fcd2a32a8620ffc869bbcc38e7a54545dd" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/bf/0c/bf0cfdcace7ec8bf0087af47fcd608b3fecdddd1" afterPath="$PROJECT_DIR$/storage/framework/cache/bf/0c/bf0cfdcace7ec8bf0087af47fcd608b3fecdddd1" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/d6/e4/d6e479c04c494d030b8fd80e480606219db5c82c" afterPath="$PROJECT_DIR$/storage/framework/cache/d6/e4/d6e479c04c494d030b8fd80e480606219db5c82c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/cache/dd/0b/dd0bb5a4d3ace468344f991a79b63b78fb4fcbd6" afterPath="$PROJECT_DIR$/storage/framework/cache/dd/0b/dd0bb5a4d3ace468344f991a79b63b78fb4fcbd6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm" afterPath="$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/storage/framework/sessions/h2QXluDpn2losqXGyKtXhu2SbFycF5JYWfpsSoST" afterPath="$PROJECT_DIR$/storage/framework/sessions/h2QXluDpn2losqXGyKtXhu2SbFycF5JYWfpsSoST" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,8 +18,8 @@
       <file leaf-file-name="logindemo.htm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="26" column="89" lean-forward="true" selection-start-line="26" selection-start-column="89" selection-end-line="26" selection-end-column="89" />
+            <state relative-caret-position="598">
+              <caret line="26" column="89" lean-forward="false" selection-start-line="26" selection-start-column="89" selection-end-line="26" selection-end-column="89" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -124,8 +42,8 @@
       <file leaf-file-name="MijnVve.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="207">
+              <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -273,8 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,36 +198,12 @@
               <item name="oc" type="b2602c69:ProjectViewProjectNode" />
               <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="oc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="oc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="beeldr" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="oc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="beeldr" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="rijnab" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="oc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oc" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="beeldr" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="rijnab" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,27 +264,27 @@
       <workItem from="1513694054677" duration="52000" />
       <workItem from="1518697621648" duration="2824000" />
       <workItem from="1518701779356" duration="813000" />
-      <workItem from="1518769573751" duration="708000" />
+      <workItem from="1518769573751" duration="940000" />
+      <workItem from="1518774090623" duration="36000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55968000" />
+    <option name="totallyTimeSpent" value="56236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-131" width="1658" height="944" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19740099" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19987623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2720848" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2720848" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -682,7 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="26" column="30" lean-forward="false" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1081">
           <caret line="47" column="21" lean-forward="false" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,14 +640,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/rijnab/pages/logindemo.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="26" column="89" lean-forward="true" selection-start-line="26" selection-start-column="89" selection-end-line="26" selection-end-column="89" />
+        <state relative-caret-position="598">
+          <caret line="26" column="89" lean-forward="false" selection-start-line="26" selection-start-column="89" selection-end-line="26" selection-end-column="89" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#input#0;n#form#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
@@ -782,8 +665,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/plugins/beeldr/rijnab/controllers/MijnVve.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="207">
+          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
           <folding />
         </state>
       </provider>
